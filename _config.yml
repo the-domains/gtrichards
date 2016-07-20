@@ -1,0 +1,14 @@
+layout_spectrum: 0.5981500905472785
+typography_spectrum: 0.5948089484591037
+color:
+  brandStrength: 0.460066816303879
+  lightness: 0.9100407699588686
+  saturation: 0.04282290069386363
+  rhythmicContrast: 0.2257765003014356
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: GTRichards
